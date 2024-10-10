@@ -1,4 +1,4 @@
-peline {
+pipeline {
     agent any
     environment {
             GIT_URL = "https://github.com/david24365/fullstack-payments.git"
